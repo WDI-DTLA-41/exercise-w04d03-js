@@ -76,6 +76,6 @@ It should also work for
     sort: 'sales rank',
     ref: 'mobile'
   },
-  fragment: '#bottom'
+  fragment: 'bottom'
 }
 ```
